@@ -1,6 +1,9 @@
 <h1 align="center">
   💻<br>Sistema biblioteca
 </h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+ </div>
 
 #### Este é um sistema de biblioteca desenvolvido em Python usando PyMongo para interagir com um banco de dados MongoDB.
 
